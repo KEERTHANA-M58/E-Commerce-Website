@@ -1,0 +1,47 @@
+
+body {
+    font-family: sans-serif;
+    margin-top: 70px; 
+    background-color: bisque;
+}
+
+.hero {
+    background-image: url("restaurant-background.jpg"); 
+    background-size: cover;
+    background-position: center;
+    color: rgb(110, 33, 33);
+    text-align: center;
+    padding: 100px 0;
+    background-color: bisque;
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: bisque;
+}
+
+.card img {
+    height: 200px; 
+    width: 200px;
+    object-fit: cover; 
+    background-color: rgb(203, 199, 195);
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+}
+.btn-primary{
+    background-color: cadetblue;
+}
+.py-5{
+    background-color: crimson;
+}
+.py-5 bg-light{
+    background-color: aqua;
+}
